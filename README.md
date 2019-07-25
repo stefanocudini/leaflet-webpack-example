@@ -1,6 +1,6 @@
-# leaflet-webpack-example
+# Leaflet Webpack Example
 
-# Usega
+# Usage
 
 ```bash
 npm install
